@@ -1,0 +1,8 @@
+E:\GRP\Client\Test\bin\Debug\Test.exe.config
+E:\GRP\Client\Test\bin\Debug\Test.exe
+E:\GRP\Client\Test\bin\Debug\Test.pdb
+E:\GRP\Client\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\GRP\Client\Test\obj\Debug\Test.exe
+E:\GRP\Client\Test\obj\Debug\Test.pdb
+E:\GRP\Client\Test\obj\Debug\Interop.MLApp.dll
+E:\GRP\Client\Test\obj\Debug\Test.csproj.ResolveComReference.cache
