@@ -13,7 +13,7 @@ Environment:
 
 Usage instruction:
 	detail instruction see 'project report' in 'slides' folder
-	1. install unity3d , create new project and import unity3d package in the pipeserver. (OR run exe file in the 'build' folder)
+	1. install unity3d , create new project and import unity3d package in the pipeserver. Set the screen size to 1280*600 in Game tab(OR run exe file in the 'build' folder)
 	2. install any IDE (visual studio) which able to run pipeclient C# solution
 	3. install Matlab OR get Matlab COM object reference
 	4. run unity3d first, then run client program
